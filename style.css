@@ -1,6 +1,6 @@
 *{margin: 0; padding:0; box-sizing: border-box;}
 body{
-    background-color: rgb(240, 219, 169);
+    background-color: rgb(104, 112, 123);
 }
 .content{
     margin: 2rem auto;
@@ -9,7 +9,7 @@ body{
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: repeat(8, 1fr);
-    background-color: rgb(12, 141, 180);
+    background-color: rgb(12, 180, 169);
 }
 .box{
     border: 1px solid #000;
